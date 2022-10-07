@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://github.com/sudobooo/sudobooo/blob/main/J1g5dbct_400x400.png">
+<img align="left" width="100" height="100" src="https://github.com/sudobooo/sudobooo/blob/main/J1g5dbct_400x400.png">
 
 ### Hey! My name's Serge.
 
