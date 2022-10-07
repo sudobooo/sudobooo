@@ -4,8 +4,6 @@
 
 I'm software developer. I write in Python and Ruby. 
 
-<br>
-
 I worked at inSales, a company that makes online stores for small businesses. The service is similar to the one provided by Shopify.
 I helped to make a Telegram bot to organize the internal work of the company. I also took part in the finalization of the ticket system for technical support.
 
