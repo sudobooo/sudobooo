@@ -1,4 +1,4 @@
-<img align="left" style="border-radius:50%" width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/J1g5dbct_400x400.png">
+<img align="left" width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/J1g5dbct_400x400.png">
 
 ### Hey!
 
