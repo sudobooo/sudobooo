@@ -1,9 +1,9 @@
 <img align="left" width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/J1g5dbct_400x400.png">
 
-### Hey! My name's Serge.
+### Hey!
 
-I'm software developer. I write in Python and Ruby. 
-
+I'm software developer. I write in Python and Ruby.
+My name's Serge. 
 <br>
 <br>
 
