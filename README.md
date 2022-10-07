@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm software developer. I write in Python and Ruby.
+I'm software developer. I write in Python and Ruby.<br>
 My name's Serge. 
 
 <br>
