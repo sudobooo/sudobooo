@@ -6,7 +6,7 @@
 My name's Serge.<br>
 I'm a software developer. I write in Python and Ruby.
 </p>
-<a href="https://www.linkedin.com/in/serge-masyutin/">
+<a href="https://www.linkedin.com/in/serge-masyutin/" target="_blank">
   <img align="left" alt="Sudoboo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
