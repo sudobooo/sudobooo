@@ -30,5 +30,5 @@ Before that, I studied for a Python developer at online school [Hexlet](https://
 - [Task Manager](https://github.com/sudobooo/python-project-lvl4) is an app that can be used by a few people at the same time.<br>
 Registration and authentication are implemented. Tasks have a creator, executor, status, and a label.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
 <img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
