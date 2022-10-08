@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/ava%20circle.png">
+<img align="left" src="https://github.com/sudobooo/sudobooo/blob/main/ava%20circle.png">
 
 ### Hey!
 
