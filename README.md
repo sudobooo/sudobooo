@@ -32,5 +32,5 @@ Registration and authentication are implemented. Tasks have a creator, executor,
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
 </p>
