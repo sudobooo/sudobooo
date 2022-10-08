@@ -20,7 +20,7 @@ I'm a software developer. I write in Python and Ruby.
 <br>
 
 I worked at inSales, a company that makes online stores for small businesses.<br>
-The service is similar to Shopify.
+The service is similar to Shopify.<br>
 Before that, I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
 
 I have 4 projects.
