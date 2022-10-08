@@ -20,8 +20,7 @@ I'm a software developer. I write in Python and Ruby.
 <br>
 
 I worked at inSales, a company that makes online stores for small businesses.<br>
-The service is similar to Shopify. I helped to make a Telegram bot to organize the internal work of the company.<br>
-I also took part in the finalization of the ticket system for technical support.<br>
+The service is similar to Shopify.
 
 Before that, I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/). I have 4 projects.
 - [The game](https://github.com/sudobooo/brain-games) tests a gamer’s basic mathematical knowledge.
