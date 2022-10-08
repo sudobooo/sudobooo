@@ -31,4 +31,4 @@ Before that, I studied for a Python developer at online school [Hexlet](https://
 Registration and authentication are implemented. Tasks have a creator, executor, status, and a label.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
-<img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
