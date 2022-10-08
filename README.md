@@ -17,4 +17,4 @@ Before that, I studied for a Python developer at online school Hexlet. I have 4 
 - [The page loader](https://github.com/sudobooo/python-project-lvl3) saves an HTML page and its resources from the Internet.
 - [Task Manager](https://github.com/sudobooo/python-project-lvl4) is an app that can be used by a few people at the same time. Registration and authentication are implemented. Tasks have a creator, executor, status, and a label.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=gotham" alt="sudobooo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo" />
