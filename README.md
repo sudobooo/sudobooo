@@ -25,9 +25,9 @@ Before that, I studied for a Python developer at online school [Hexlet](https://
 
 I have 4 projects.
 - [The Brain Games](https://github.com/sudobooo/brain-games) is a program that tests a gamer’s basic mathematical knowledge.
-- [The Generated Difference](https://github.com/sudobooo/python-project-lvl2) is a program that compares two files and finds a difference. It supports JSON and YAML formats.
-- [The Page Loader](https://github.com/sudobooo/python-project-lvl3) is a program that saves an HTML page and its resources from the Internet.
-- [The Task Manager](https://github.com/sudobooo/python-project-lvl4) is an app that can be used by a few people at the same time.<br>
+- [The Generated Difference](https://github.com/sudobooo/gendiff) is a program that compares two files and finds a difference. It supports JSON and YAML formats.
+- [The Page Loader](https://github.com/sudobooo/page_loader) is a program that saves an HTML page and its resources from the Internet.
+- [The Task Manager](https://github.com/sudobooo/task_manager) is an app that can be used by a few people at the same time.<br>
 Registration and authentication are implemented. Tasks have a creator, executor, status, and a label.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
