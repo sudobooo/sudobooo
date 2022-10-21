@@ -19,7 +19,8 @@ I'm a software developer. I write in Python and Ruby.
 <br>
 <br>
 
-I worked at inSales, a company that makes online stores for small businesses.<br>
+I'm currently employed by JetRockets.<br>
+Before I worked at inSales, a company that makes online stores for small businesses.<br>
 The service is similar to Shopify.<br>
 Before that, I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
 
