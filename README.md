@@ -20,9 +20,8 @@ I'm a software developer. I write in Python and Ruby.
 <br>
 
 I'm currently employed by JetRockets.<br>
-Before I worked at inSales, a company that makes online stores for small businesses.<br>
-The service is similar to Shopify.<br>
-Before that, I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
+Before I worked at inSales, a company that makes online stores for small businesses. The service is similar to Shopify.<br>
+I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
 
 I have 4 projects.
 - [The Brain Games](https://github.com/sudobooo/brain-games) is a program that tests a gamer’s basic mathematical knowledge.
