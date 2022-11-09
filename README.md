@@ -24,7 +24,7 @@ I'm currently employed by JetRockets as a Ruby on Rails Developer.<br>
 Before I worked at inSales, a company that makes online stores for small businesses. The service is similar to Shopify.<br>
 I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
 
-I have 4 pet projects.
+I have 4 pet projects written in Python. 
 - [The Task Manager](https://github.com/sudobooo/task_manager) is an app that can be used by a few people at the same time.
 - [The Generated Difference](https://github.com/sudobooo/gendiff) is a program that compares two files and finds a difference. It supports JSON and YAML formats.
 - [The Page Loader](https://github.com/sudobooo/page_loader) is a program that saves an HTML page and its resources from the Internet.
