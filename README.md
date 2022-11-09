@@ -4,7 +4,7 @@
 
 <p>
 My name's Serge.<br>
-I'm a software developer. I write in Python and Ruby.
+I'm a Back-end Developer. I write in Python and Ruby.
 </p>
 <a href="https://www.linkedin.com/in/serge-masiutin/">
   <img align="left" alt="Sudoboo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
@@ -19,7 +19,8 @@ I'm a software developer. I write in Python and Ruby.
 <br>
 <br>
 
-I'm currently employed by JetRockets.<br>
+I'm currently employed by JetRockets as a Ruby on Rails Developer.<br>
+
 Before I worked at inSales, a company that makes online stores for small businesses. The service is similar to Shopify.<br>
 I studied for a Python developer at online school [Hexlet](https://ru.hexlet.io/).
 
