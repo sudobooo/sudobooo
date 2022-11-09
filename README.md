@@ -9,7 +9,7 @@ I'm a software developer. I write in Python and Ruby.
 <a href="https://www.linkedin.com/in/serge-masyutin/">
   <img align="left" alt="Sudoboo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
-<a href="https://www.instagram.com/sudoboooo/">
+<a href="https://www.instagram.com/serge_sudoboo/">
   <img align="left" alt="Sudoboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
 </a>
 <a href="https://t.me/serge_masiutin/">
