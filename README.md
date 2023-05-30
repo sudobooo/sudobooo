@@ -1,6 +1,6 @@
 <img align="left"  width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/ava_circle.png" alt="sudobooo_ava">
 
-### sudo boo!
+<b>sudo boo!</b>
 
 <p>
 My name's Serge.<br>
