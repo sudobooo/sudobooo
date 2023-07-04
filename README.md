@@ -1,7 +1,3 @@
-<img align="left"  width="150" height="150" src="https://github.com/sudobooo/sudobooo/blob/main/ava_circle.png" alt="sudobooo_ava">
-
-<b>sudo boo!</b>
-
 <p>
 My name's Serge.<br>
 I'm a Back-end Developer.  I write in Ruby, Python, and Go.
