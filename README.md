@@ -5,7 +5,7 @@ I'm a Back-end Developer.  I write in Ruby, Python, and Go.
 <a href="https://www.linkedin.com/in/serge-masiutin/">
   <img align="left" alt="Sudoboo's LinkedIn" width="22px" src="https://github.com/sudobooo/sudobooo/blob/main/ln_logo.png">
 </a>
-<a href="https://www.instagram.com/serge_sudoboo/">
+<a href="https://www.instagram.com/serge_masiutin/">
   <img align="left" alt="Sudoboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
 </a>
 <a href="https://t.me/serge_masiutin/">
