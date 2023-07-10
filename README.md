@@ -3,7 +3,7 @@ My name's Serge.<br>
 I'm a Back-end Developer.  I write in Ruby, Python, and Go.
 </p>
 <a href="https://www.linkedin.com/in/serge-masiutin/">
-  <img align="left" alt="Sudoboo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  <img align="left" alt="Sudoboo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 <a href="https://www.instagram.com/serge_sudoboo/">
   <img align="left" alt="Sudoboo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
