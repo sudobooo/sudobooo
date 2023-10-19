@@ -18,6 +18,3 @@ I'm a Back-end Developer.  I write in Ruby, Python, and Go.
 I'm currently employed by JetRockets as a Ruby on Rails Developer.<br>
 
 I developed applications within product teams and also made an MVP for a startup. I have experience with open source and my pet projects. Before joining development, I worked in journalism, where he became a team leader.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobooo&layout=compact&theme=synthwave" alt="sudobooo_langs">
-<img src="https://github-readme-stats.vercel.app/api?username=sudobooo&show_icons=true&theme=synthwave" alt="sudobooo_stats">
