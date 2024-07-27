@@ -15,6 +15,6 @@ I'm a Back-end Developer.  I write in Ruby, Python, and Go.
 <br>
 <br>
 
-I'm currently employed by JetRockets as a Ruby on Rails Developer.<br>
+I'm currently employed by JetRockets as a ML Engineer.<br>
 
 I developed applications within product teams and also made an MVP for a startup. I have experience with open source and my pet projects. Before joining development, I worked in journalism, where he became a team leader.
