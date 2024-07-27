@@ -1,6 +1,5 @@
 <p>
 My name's Serge.<br>
-I'm a Back-end Developer.  I write in Ruby, Python, and Go.
 </p>
 <a href="https://www.linkedin.com/in/serge-masiutin/">
   <img align="left" alt="Sudoboo's LinkedIn" width="22px" src="https://github.com/sudobooo/sudobooo/blob/main/ln_logo.png">
