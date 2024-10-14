@@ -1,5 +1,5 @@
 <p>
-My name's Serge!<br>
+My name's Sergei!<br>
 </p>
 <a href="https://www.linkedin.com/in/serge-masiutin/">
   <img align="left" alt="Sudoboo's LinkedIn" width="22px" src="https://github.com/sudobooo/sudobooo/blob/main/ln_logo.png">
