@@ -10,8 +10,3 @@ My name's Sergei!<br>
 <a href="https://t.me/serge_masiutin/">
   <img align="left" alt="Sudoboo's Telegram" width="22px" src="https://github.com/sudobooo/sudobooo/blob/main/telegram.png">
 </a>
-
-<br>
-<br>
-
-I'm currently employed by JetRockets as a ML Engineer.
